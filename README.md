@@ -1,2 +1,2 @@
-# c-v
+Meu Curriculo
 repositório do meu curriculo
