@@ -1,5 +1,5 @@
-Meu Curriculo
+Repositório para armazenar meu curriculo
 
-repositório do meu curriculo
+curriculo feito em HTML
 ## link para meu currriculo:
 https://isa7094.github.io/c-v/
